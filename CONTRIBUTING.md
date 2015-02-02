@@ -1,4 +1,4 @@
-# How to Contribute
+# Contribution Guidelines
 
 1. Fork the repository
 2. Only use topic branches
