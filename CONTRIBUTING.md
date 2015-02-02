@@ -1,4 +1,4 @@
-# Contribution Guidelines
+# :sparkles: Contribution Guidelines :sparkles: 
 
 1. Fork the repository
 2. Only use topic branches
