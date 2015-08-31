@@ -4,3 +4,4 @@
 2. Only use topic branches
 3. Create some changes
 4. Send pull request
+5. Celebrate!
